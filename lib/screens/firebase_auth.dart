@@ -49,7 +49,7 @@ class _FireBaseAuthState extends State<FireBaseAuth> {
                           fontWeight: FontWeight.w700),
                     ),
                     Text(
-                      'Welcome to Kidney Health at Home!',
+                      'Welcome to RenAlert!',
                       style: GoogleFonts.b612(
                           color: Colors.indigo[800],
                           fontSize: 17,

@@ -97410,7 +97410,7 @@ $S:80}
 A.rg.prototype={
 Z(){return new A.YW()}}
 A.YW.prototype={
-G(a){var s=null,r=A.ar(s,s,B.h,s,B.hl,B.DV,s,s,s,s,s,s,s),q=t.p,p=A.eb(!0,new A.dg(B.hf,s,s,A.ar(B.e0,A.bk(A.b([A.a8("HELLO",s,s,s,A.aVz().$3$color$fontSize$fontWeight(B.m,50,B.t),s,s,s),A.a8("Welcome to Medico!",s,s,s,A.aVz().$3$color$fontSize$fontWeight(B.hz,17,B.v),s,s,s)],q),B.a3,B.p,B.n,0,B.u),B.h,s,s,s,s,s,s,B.IM,s,s,s),s),!0,B.Q,!0,!0),o=A.aL(64,B.aV.C()>>>16&255,B.aV.C()>>>8&255,B.aV.C()&255),n=A.c2(20),m=t.w,l=A.Z(a,s,m).w,k=A.lg(s,s,B.hz,s,s,s,2,s,s,B.hz,s,s,s,s,new A.bZ(A.c2(32),B.o),s,s,s,s,s)
+G(a){var s=null,r=A.ar(s,s,B.h,s,B.hl,B.DV,s,s,s,s,s,s,s),q=t.p,p=A.eb(!0,new A.dg(B.hf,s,s,A.ar(B.e0,A.bk(A.b([A.a8("HELLO",s,s,s,A.aVz().$3$color$fontSize$fontWeight(B.m,50,B.t),s,s,s),A.a8("Welcome to RenAlert!",s,s,s,A.aVz().$3$color$fontSize$fontWeight(B.hz,17,B.v),s,s,s)],q),B.a3,B.p,B.n,0,B.u),B.h,s,s,s,s,s,s,B.IM,s,s,s),s),!0,B.Q,!0,!0),o=A.aL(64,B.aV.C()>>>16&255,B.aV.C()>>>8&255,B.aV.C()&255),n=A.c2(20),m=t.w,l=A.Z(a,s,m).w,k=A.lg(s,s,B.hz,s,s,s,2,s,s,B.hz,s,s,s,s,new A.bZ(A.c2(32),B.o),s,s,s,s,s)
 l=A.ar(B.I,A.c7(A.lf(A.a8("Sign in",s,s,s,A.af().$3$color$fontSize$fontWeight(B.k,18,B.t),s,s,s),s,new A.ayG(this,a),k),50,1/0),B.h,s,s,s,s,s,s,B.hS,s,s,l.a.a/1.1)
 m=A.Z(a,s,m).w
 k=A.lg(s,s,B.k,s,s,s,2,s,s,B.k,s,s,s,s,new A.bZ(A.c2(32),B.o),s,s,s,s,s)

@@ -1,6 +1,6 @@
 <h1 align="center"> Kidney Health at Home </h1>
 <p align="center">
-<a href="https://alicerwei.github.io/"><img src="screenshots\icon.png" alt="kidney-health-app" width="200" align = "center"></a>
+<a href="https://alicerwei.github.io/"><img src="screenshots\icon.png" alt="health-app" width="200" align = "center"></a>
 </p>
 
 - Click on the above icon to open the app(web version).
